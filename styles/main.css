@@ -1,0 +1,36 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+header {
+  justify-content: center;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+
+form {
+  padding-top: 5rem;
+  text-align: center;
+}
+
+form > label {
+  font-size: 1.5rem;
+}
+
+form > input {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+form > button {
+  color: white;
+}
+
+li > input {
+  margin-left: 40px;
+}
